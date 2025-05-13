@@ -8,6 +8,6 @@ curl \
 -H "Authorization: Bearer {API_KEY}" \
 -H "Content-Type: application/json" \
 -H "Ngrok-Version: 2" \
--d '{"backends":{"bkdhr_2wgPZc3qhAO4g4afJir5dun4vV1":0,"bkdhr_2wgPZd84px1nm1m2zgom5zHdr1C":1},"description":"acme weighted","metadata":"{\"environment\": \"staging\"}"}' \
+-d '{"backends":{"bkdhr_2x2L1v3Ctl7P95MhCisOgVURzYp":0,"bkdhr_2x2L1vSwW8KK9MSI7yUQUXUoPHt":1},"description":"acme weighted","metadata":"{\"environment\": \"staging\"}"}' \
 https://api.ngrok.com/backends/weighted
 ```
